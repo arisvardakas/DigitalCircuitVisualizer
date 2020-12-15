@@ -1,0 +1,88 @@
+Verilog	scl	1.0
+#	Created	: 
+#	User	:	ioarvani
+#	Platform	:	linux
+
+NumRows	:	9
+
+CoreRow	Horizontal
+Coordinate	:	0.000000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	1.400000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	2.800000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	4.200000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	5.600000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	7.000000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	8.400000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	9.800000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End
+CoreRow	Horizontal
+Coordinate	:	11.200000
+Height	:	1.4
+Sitewidth	:	1.4
+Sitespacing	:	0
+Siteorient	:	N
+Sitesymmetry	:	Y
+SubrowOrigin	:	0	Numsites	:	12.600000
+End

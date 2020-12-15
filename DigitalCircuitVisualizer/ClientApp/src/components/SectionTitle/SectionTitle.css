@@ -1,0 +1,114 @@
+﻿.mi-sectiontitle {
+    margin-bottom: 60px;
+    position: relative;
+    z-index: 1;
+}
+
+    .mi-sectiontitle span {
+        position: absolute;
+        left: 0;
+        top: 100%;
+        font-size: 6rem;
+        line-height: 1;
+        font-weight: 900;
+        color: rgba(25, 29, 43, 0.44);
+        display: inline-block;
+        text-transform: uppercase;
+        z-index: -1;
+        transform: translateY(-40%);
+        user-select: none;
+        white-space: nowrap;
+    }
+
+    .mi-sectiontitle h2 {
+        font-weight: 700;
+        position: relative;
+        padding-bottom: 15px;
+        text-transform: uppercase;
+    }
+
+        .mi-sectiontitle h2::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: auto;
+            bottom: 0;
+            height: 5px;
+            width: 100px;
+            background: rgba(3, 127, 255, 0.3);
+            border-radius: 100px;
+        }
+
+        .mi-sectiontitle h2::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: auto;
+            bottom: 0;
+            height: 5px;
+            width: 35px;
+            background: #037fff;
+            border-radius: 100px;
+        }
+
+@media only screen and (min-width: 1200px) and (max-width: 1599px) {
+    .mi-sectiontitle span {
+        font-size: 4.5rem;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .mi-sectiontitle span {
+        font-size: 4.5rem;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .mi-sectiontitle {
+        margin-bottom: 50px;
+    }
+
+        .mi-sectiontitle span {
+            font-size: 4.2rem;
+        }
+}
+
+@media only screen and (max-width: 767px) {
+    .mi-sectiontitle {
+        margin-bottom: 40px;
+    }
+
+        .mi-sectiontitle span {
+            font-size: 3.8rem;
+        }
+}
+
+@media only screen and (max-width: 575px) {
+    .mi-sectiontitle span {
+        font-size: 3.2rem;
+    }
+}
+
+.mi-smalltitle {
+    display: flex;
+    align-items: center;
+}
+
+    .mi-smalltitle h4 {
+        font-weight: 700;
+    }
+
+.mi-smalltitle-icon {
+    vertical-align: middle;
+    margin-right: 10px;
+    font-size: 1.71rem;
+    line-height: 2.43rem;
+    color: #a4acc4;
+}
+
+@media only screen and (max-width: 767px) {
+    .mi-smalltitle-icon {
+        font-size: 1.51rem;
+        line-height: 2.13rem;
+    }
+}
